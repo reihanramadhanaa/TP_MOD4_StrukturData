@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1696772499 source:c:\codeblock c++\tp mod 4\list.cpp
+	<iostream>
+	"list.h"
+
+1696772499 c:\codeblock c++\tp mod 4\list.h
+	<iostream>
+
+1584205420 source:c:\codeblock c++\tp mod 4\main.cpp
+	<iostream>
+
